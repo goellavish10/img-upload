@@ -1,0 +1,17 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "A Golang application to test Devops and Backend concepts",
+        "title": "The Image Uploader App",
+        "contact": {
+            "name": "Lavish Goyal"
+        },
+        "license": {
+            "name": "MIT"
+        },
+        "version": "1.0"
+    },
+    "host": "localhost:8080",
+    "basePath": "/",
+    "paths": {}
+}

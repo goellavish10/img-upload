@@ -1,0 +1,12 @@
+basePath: /
+host: localhost:8080
+info:
+  contact:
+    name: Lavish Goyal
+  description: A Golang application to test Devops and Backend concepts
+  license:
+    name: MIT
+  title: The Image Uploader App
+  version: "1.0"
+paths: {}
+swagger: "2.0"
