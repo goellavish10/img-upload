@@ -41,6 +41,9 @@ func SetupAppAndRun() error {
 	// Setting up router for application
 	router.SetupRouter(app)
 
+	// Swagger Route
+	config.SwaggerRoute(app)
+
 	port := os.Getenv("PORT")
 
 	if port == "" {
